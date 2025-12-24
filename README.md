@@ -1,6 +1,3 @@
-
-# Power-BI-Analytics-Portfolio
-
 # 📊 Power BI Portfolio — Anthony Obot
 
 Welcome to my Power BI Portfolio!  
